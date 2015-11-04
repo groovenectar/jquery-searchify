@@ -1,0 +1,20 @@
+.searchify.searchify-no-results,
+.searchify>:not(.searchify-match) {
+	display: none;
+}
+
+.searchify-form-before {
+	margin-bottom: 1em;
+}
+
+.searchify-form-after {
+	margin-top: 1em;
+}
+
+.searchify-form label input {
+	margin-left: 1ex;
+}
+
+.searchify-form input {
+	font: inherit;
+}
